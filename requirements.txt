@@ -13,7 +13,7 @@ certifi==2020.6.20
 cffi==1.14.0
 chardet==3.0.4
 cloudpickle @ file:///tmp/build/80754af9/cloudpickle_1594141588948/work
-cryptography==2.9.2
+cryptography==3.2
 decorator==4.4.2
 defusedxml==0.6.0
 diff-match-patch==20181111
