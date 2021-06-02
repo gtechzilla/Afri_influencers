@@ -111,7 +111,7 @@ tornado==6.0.4
 traitlets==4.3.3
 tweepy==3.9.0
 ujson==1.35
-urllib3==1.25.9
+urllib3==1.26.5
 watchdog @ file:///tmp/build/80754af9/watchdog_1593447344699/work
 wcwidth @ file:///tmp/build/80754af9/wcwidth_1593447189090/work
 webencodings==0.5.1
